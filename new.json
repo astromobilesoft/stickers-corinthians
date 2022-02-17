@@ -4,6 +4,12 @@
    "sticker_packs":[
       {
          "identifier":"paulista2022j5",
+         "name":"vs Sao Bernardo",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"paulista2022j5",
          "name":"vs Mirassol",
          "animated_sticker_pack":false,
          "stickers":"15"
