@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"paulista2022j12",
+         "name":"vs Novorizontino",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
          "identifier":"paulista2022j11",
          "name":"vs Ponte Preta",
          "animated_sticker_pack":false,
