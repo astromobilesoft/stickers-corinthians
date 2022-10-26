@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"rogerguedes1",
+         "name":"Roger Guedes",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"yurialberto1",
+         "name":"Yuri Alberto",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"brasileirao2022j33",
          "name":"vs Santos",
          "animated_sticker_pack":false,
