@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"worldcup2022BRAgol1",
+         "name":"Brasil Gol 1",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022BRAgol2",
+         "name":"Brasil Gol 2",
+         "animated_sticker_pack":true,
+         "stickers":"13"
+      },
+      {
          "identifier":"animated1",
          "name":"Animated 1",
          "animated_sticker_pack":true,
