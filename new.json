@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"copabrasil2023f16",
+         "name":"vs Remo",
+         "animated_sticker_pack":true,
+         "stickers":"21"
+      },
+      {
          "identifier":"logo1",
          "name":"Logo 1",
          "animated_sticker_pack":true,
