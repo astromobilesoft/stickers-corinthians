@@ -21,6 +21,12 @@
          "stickers":"15"
       },
       {
+         "identifier":"logo4",
+         "name":"Logo 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"club2",
          "name":"Club 2",
          "animated_sticker_pack":false,
