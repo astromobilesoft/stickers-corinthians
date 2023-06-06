@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"club3",
+         "name":"Club 3",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"club4",
+         "name":"Club 4",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
          "identifier":"copabrasil2023f8",
          "name":"vs Atletico-MG",
          "animated_sticker_pack":false,
