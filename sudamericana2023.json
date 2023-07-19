@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2023f16b",
+         "name":"vs Universitario (2)",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
          "identifier":"sudamericana2023f16a",
-         "name":"vs Universitario",
+         "name":"vs Universitario (1)",
          "animated_sticker_pack":false,
          "stickers":"27"
       }
