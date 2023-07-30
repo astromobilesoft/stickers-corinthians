@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"brasileirao2023j17a",
+         "name":"vs Vasco (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"brasileirao2023j17b",
+         "name":"vs Vasco (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"brasileirao2023j14",
          "name":"vs Atletico MG",
          "animated_sticker_pack":false,
