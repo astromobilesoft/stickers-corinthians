@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2023c2",
+         "name":"vs Estudiantes (2)",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"sudamericana2023c1",
-         "name":"vs Estudiantes",
+         "name":"vs Estudiantes (1)",
          "animated_sticker_pack":false,
          "stickers":"21"
       },
