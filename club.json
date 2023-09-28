@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"manomenezes1",
+         "name":"Mano Menezes",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
          "identifier":"aniversario113",
-         "name":"Aniversário 113 ",
+         "name":"Aniversário 113",
          "animated_sticker_pack":false,
          "stickers":"8"
       },
