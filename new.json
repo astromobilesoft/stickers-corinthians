@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2024o2",
+         "name":"vs Bragantino (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"sudamericana2024o1",
-         "name":"vs Bragantino",
+         "name":"vs Bragantino (1)",
          "animated_sticker_pack":false,
          "stickers":"14"
       },
