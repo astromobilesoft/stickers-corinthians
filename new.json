@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"memphisdepay",
+         "name":"Memphis memphisdepay",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"kit2425a",
          "name":"Camisas 24-25",
          "animated_sticker_pack":false,
