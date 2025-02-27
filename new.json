@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2425b",
+         "name":"Camisa II 24-25",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
          "identifier":"libertadores2023fp2b",
          "name":"vs Universidad Central",
          "animated_sticker_pack":false,
@@ -70,7 +76,7 @@
       },
       {
          "identifier":"kit2425a",
-         "name":"Camisas 24-25",
+         "name":"Camisa I 24-25",
          "animated_sticker_pack":false,
          "stickers":"18"
       },
