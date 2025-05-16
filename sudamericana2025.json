@@ -3,8 +3,14 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"sudamericana2025fg5",
+         "name":"Racing Montevideo (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"sudamericana2025fg3",
-         "name":"Racing Montevideo",
+         "name":"Racing Montevideo (1)",
          "animated_sticker_pack":false,
          "stickers":"22"
       }
